@@ -10,6 +10,7 @@
 		EE7FA88F2C2C74B8001354A5 /* HomeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7FA88E2C2C74B8001354A5 /* HomeTabView.swift */; };
 		EE7FA8922C2C7842001354A5 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7FA8912C2C7842001354A5 /* CardView.swift */; };
 		EE7FA8942C2D85E2001354A5 /* UserInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7FA8932C2D85E2001354A5 /* UserInfoView.swift */; };
+		EE7FA8962C2DCCF5001354A5 /* SwipeActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7FA8952C2DCCF5001354A5 /* SwipeActionView.swift */; };
 		EEA6D5782BE51E8A00E443FA /* swoopedApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEA6D5772BE51E8A00E443FA /* swoopedApp.swift */; };
 		EEA6D57A2BE51E8A00E443FA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEA6D5792BE51E8A00E443FA /* ContentView.swift */; };
 		EEA6D57C2BE51E8C00E443FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEA6D57B2BE51E8C00E443FA /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 		EE7FA88E2C2C74B8001354A5 /* HomeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabView.swift; sourceTree = "<group>"; };
 		EE7FA8912C2C7842001354A5 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		EE7FA8932C2D85E2001354A5 /* UserInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoView.swift; sourceTree = "<group>"; };
+		EE7FA8952C2DCCF5001354A5 /* SwipeActionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionView.swift; sourceTree = "<group>"; };
 		EEA6D5742BE51E8A00E443FA /* swooped.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swooped.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEA6D5772BE51E8A00E443FA /* swoopedApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swoopedApp.swift; sourceTree = "<group>"; };
 		EEA6D5792BE51E8A00E443FA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 			children = (
 				EE7FA8912C2C7842001354A5 /* CardView.swift */,
 				EE7FA8932C2D85E2001354A5 /* UserInfoView.swift */,
+				EE7FA8952C2DCCF5001354A5 /* SwipeActionView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -359,6 +362,7 @@
 				EE7FA8922C2C7842001354A5 /* CardView.swift in Sources */,
 				EEA6D5782BE51E8A00E443FA /* swoopedApp.swift in Sources */,
 				EE7FA8942C2D85E2001354A5 /* UserInfoView.swift in Sources */,
+				EE7FA8962C2DCCF5001354A5 /* SwipeActionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
